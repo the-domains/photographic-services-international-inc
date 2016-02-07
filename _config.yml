@@ -1,0 +1,28 @@
+name: 'Photographic Services International, Inc.'
+favicon: null
+layout_spectrum: 0.08952157944440842
+typography_spectrum: 0.6145532282534987
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6556228781118989
+  lightness: 0.11698992876335979
+  saturation: 0.9252905307803303
+  rhythmicContrast: 0.6322069619782269
+purpose: []
