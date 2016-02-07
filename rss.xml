@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Photographic Services International, Inc.]]></title>
+        <description><![CDATA[Photographic Services International, Inc.]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 07 Feb 2016 01:22:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wildlife]]></title>
+            <description><![CDATA[<article><h1>Wildlife</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d72690c84041b84d70e6aefed323a42007e3f6df.jpg"></article>]]></description>
+            <link>undefinedwildlife/index.html</link>
+            <guid isPermaLink="false">72bb2cc6-ee02-427d-8e64-8253b1c7a1ef</guid>
+            <pubDate>Sun, 07 Feb 2016 01:21:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
